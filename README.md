@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm TekBruh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>
 
@@ -106,8 +105,7 @@
 <a href="https://instagram.com/whyte,wolfe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -133,8 +131,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tobeski03&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
@@ -149,4 +146,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ---
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Created By TekBruh</div>
